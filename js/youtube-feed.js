@@ -450,7 +450,7 @@ class YouTubeFeedService {
  */
 const youtubeFeed = new YouTubeFeedService({
     // apiKey: 'SUA_API_KEY_AQUI',      // Descomente e insira sua API Key
-    // channelId: 'SEU_CHANNEL_ID',     // Opcional - será descoberto automaticamente
+    channelId: 'UC6YMH2FVrVRN1KNO9-aH-SA',     // Opcional - será descoberto automaticamente
     channelHandle: 'barrigudawebtv',   // Nome do canal no YouTube
     maxResults: 6
 });
